@@ -1,0 +1,3 @@
+10102024, party, food, 2000.00
+23112024, grocery, shopping, 4000.00
+4122024, clothes, shopping, 8000.00
